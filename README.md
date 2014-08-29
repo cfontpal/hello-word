@@ -2,4 +2,4 @@ hello-word
 ==========
 
 First repository
-Hi this is my cecond line
+Hi this is my second line
